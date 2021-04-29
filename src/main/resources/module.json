@@ -1,5 +1,5 @@
 {
-  "classPath": "class.path",
+  "classPath": "org.example.ExampleModule",
   "version": "1.0.0",
   "creator": "HMCore Team and Waterdev"
 }
